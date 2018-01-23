@@ -2,6 +2,7 @@
 A very rudimentary Google Chrome extension to keep a chunk of text handy, usually for copy/pasting.
 
 TO DO:
+
 	add tabs for multiple chunks of text under one button (rather than having to install multiple instances)
-	keyboard shortcuts?
+	keyboard shortcuts
 	pasting without formatting automatically
