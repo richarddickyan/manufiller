@@ -1,9 +1,7 @@
 # manufiller
 A very rudimentary Google Chrome extension to keep a chunk of text handy, usually for copy/pasting.
 
-TO INSTALL:
-	
-	Download 'template' folder and put anywhere on your computer. Edit the 'popup.html' file with the text you want to keep handy. Go to Chrome Extensions (>Settings >More Tools >Extensions) and check 'Developer mode'. Click 'Load unpacked extension...' and install your 'template' folder. Button should appear next to your address bar and clicking it will bring up a popup with your text.
+TO INSTALL: Download 'template' folder and put anywhere on your computer. Edit the 'popup.html' file with the text you want to keep handy. Go to Chrome Extensions (>Settings >More Tools >Extensions) and check 'Developer mode'. Click 'Load unpacked extension...' and install your 'template' folder. Button should appear next to your address bar and clicking it will bring up a popup with your text.
 
 TO DO:
 
