@@ -7,8 +7,9 @@ TO DO:
 
 	add tabs for multiple chunks of text under one button (rather than having to install multiple instances)
 	keyboard shortcuts
-	pasting without formatting automatically
+	"paste without formatting" automatically
 	enable select-all with single click anywhere in box
 	pack and allow download through google store
+	double click to select all
 
-last edit: 1/23/18 @ 10:38am
+last edit: 1/24/18 @ 4:49am
